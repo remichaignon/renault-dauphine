@@ -6,13 +6,13 @@
 
 ## TODO
 
-- [ ] Build garage
-- [ ] Move car to garage
+- [x] Build garage
+- [x] Move car to garage
+- [ ] Rebuild engine
+- [ ] Rebuild gear box
+- [ ] Rebuild rear axle
 - [ ] Get proper bearing puller
 - [ ] Remove front suspensions
 - [ ] Remove dashboard
 - [ ] Send body for restoration
-- [ ] Rebuild rear axle
-- [ ] Rebuild gear box
-- [ ] Rebuild engine
 - [ ] ...
